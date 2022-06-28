@@ -34,6 +34,10 @@ export const TenderActiveDetails = () => {
                 <p className='owner'>{tender.Owner}</p>
                 <h3 className='description-title'>Opis</h3>
                 <p className='description'>{tender.Description}</p>
+                <h3 className='start-date-title'>Data rozpoczęcia przetargu</h3>
+                <p className='start-date'>{tender.StartDate.slice(0, -5).replace('T', ' ')}</p>
+                <h3 className='end-date-title'>Data zakończenia przetargu</h3>
+                <p className='end-date'>{tender.EndDate.slice(0, -5).replace('T', ' ')}</p>
                 <NavLink to={`/oferty/${tender.Id}`} className='add-offer'>Dodaj ofertę</NavLink>
             </div>
         );
