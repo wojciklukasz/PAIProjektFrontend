@@ -1,4 +1,8 @@
 # PAI Projekt Indywidualny 2 Front-end
+
+Back-end znajduje się w następującym repozytorium:
+https://github.com/wojciklukasz/PAIProjektFrontend
+
 ## Wymagania
 Aplikacja wymaga środowiska Node co najmniej w wersji 16.
 
@@ -7,7 +11,7 @@ Przed uruchomieniem należy wykonać komendę npm install.
 ## Uruchamianie
 Uruchomienie: npm start
 
-Aplikacja uruchomi się na porcie 3051.
+Aplikacja uruchomi się na porcie 3000.
 
 
 ## Dokumentacja
