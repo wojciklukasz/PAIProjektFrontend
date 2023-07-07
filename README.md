@@ -1,7 +1,7 @@
 # PAI Projekt Indywidualny 2 Front-end
 
 Back-end znajduje się w następującym repozytorium:
-https://github.com/wojciklukasz/PAIProjektFrontend
+https://github.com/wojciklukasz/PAIProjektBackend
 
 ## Wymagania
 Aplikacja wymaga środowiska Node co najmniej w wersji 16.
